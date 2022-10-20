@@ -1,0 +1,12 @@
+.card{
+    box-shadow: inset 0px -75px 44px 0px #000;
+height: 300px;
+    width: 210px;
+    border-radius: 7px;
+    background: url("../images/futo.jpg") center/cover;
+}
+.title{
+    font-family: "Russo One", sans-serif;
+    font-size: 19px;
+    color: #fff;
+}
